@@ -26,7 +26,7 @@ With the data processed and queried, I turned to Power BI to tell the story visu
 * Trends in viewership, likes and dislikes
 * Engagement rates by video category
 
-This dashboard made it easy to identify patterns like which categories trend more frequently, or how viewership pattern varies across regions. Check out the full dashboard here: <post>
+This dashboard made it easy to identify patterns like which categories trend more frequently, or how viewership pattern varies across regions. Check out the full dashboard [here](https://www.linkedin.com/posts/devanshpratapsingh_youtube-trends-analysis-activity-7340377666031710212-hWyU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjBy0ABaXaaeLrG9iJoE5OORTM6A3LLAv4 "Power BI Dashboard")
 
 ## Key Skills & Takeaways
 
